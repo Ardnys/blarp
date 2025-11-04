@@ -23,7 +23,7 @@ To get started with Blarp, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/blarp.git
+    git clone https://github.com/Ardnys/blarp.git
     cd blarp
     ```
 
